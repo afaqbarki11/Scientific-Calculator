@@ -29,7 +29,7 @@ A Scientific Calculator Android application built with Kotlin, featuring a clean
 
 1. Clone this repository:
 
-   ##bash
+   bash
    git clone https://github.com/afaqbarki11/Scientific-Calculator.git
    
 
@@ -47,7 +47,11 @@ Run the available unit tests through Android Studio to verify the calculator's l
 
 - GitHub: [@afaqbarki11](https://github.com/afaqbarki11)
 
-![Scientific Calculator](./calculator.png)
+## 📸 App Screenshot
+
+<p align="center">
+  <img src="./Calculator.png" alt="Scientific Calculator" width="250">
+</p>
 
 ## 📄 License
 
