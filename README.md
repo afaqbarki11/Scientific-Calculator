@@ -47,9 +47,7 @@ Run the available unit tests through Android Studio to verify the calculator's l
 
 - GitHub: [@afaqbarki11](https://github.com/afaqbarki11)
 
-- ## 📸 App Screenshot
-
-![Scientific Calculator](calculator.png)
+![Scientific Calculator](./calculator.png)
 
 ## 📄 License
 
